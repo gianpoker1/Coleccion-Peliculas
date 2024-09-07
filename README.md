@@ -57,8 +57,8 @@ Coleccion de Peliculas
    
 4. **Salir**
 
-**Elige una opcion:** 
-``` 1 
+**Elige una opcion:** 1
+``` 
 
 Nombre de Pelicula: Batman 
 
@@ -75,7 +75,8 @@ Se añadio la pelicula Batman
    
 4. **Salir**
 
-**Elige una opcion:** ```2 
+**Elige una opcion:** 2
+```
 
 Lista de Peliculas: Batman
 ```
@@ -90,7 +91,8 @@ Lista de Peliculas: Batman
    
 4. **Salir**
 
-**Elige una opcion:** ```3 
+**Elige una opcion:** 3
+```
 
 **Introduce la Pelicula a buscar:** Batman 
 
