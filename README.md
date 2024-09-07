@@ -61,7 +61,9 @@ Coleccion de Peliculas
 
 Nombre de Pelicula: Batman 
 
-Se añadio la pelicula Batman```
+Se añadio la pelicula Batman
+
+```
 
 **Coleccion de Peliculas**
 
@@ -75,7 +77,8 @@ Se añadio la pelicula Batman```
 
 **Elige una opcion:** ```2 
 
-Lista de Peliculas: Batman```
+Lista de Peliculas: Batman
+```
 
 **Coleccion de Peliculas**
 
