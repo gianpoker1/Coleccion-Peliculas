@@ -49,46 +49,46 @@ Este proyecto es una aplicación de consola en Java que permite gestionar una co
 
 Coleccion de Peliculas
 
-1. Agregar Pelicula
+1. **Agregar Pelicula**
    
-2. Listar Peliculas
+2. **Listar Peliculas**
    
-3. Buscar Peliculas
+3. **Buscar Peliculas**
    
-4. Salir
+4. **Salir**
 
-Elige una opcion: 1 
+**Elige una opcion:** ``` 1 
 
 Nombre de Pelicula: Batman 
 
-Se añadio la pelicula Batman
+Se añadio la pelicula Batman```
 
-Coleccion de Peliculas
+**Coleccion de Peliculas**
 
-1. Agregar Pelicula
+1. **Agregar Pelicula**
    
-2. Listar Peliculas
+2. **Listar Peliculas**
    
-3. Buscar Peliculas
+3. **Buscar Peliculas**
    
-4. Salir
+4. **Salir**
 
-Elige una opcion: 2 
+**Elige una opcion:** ```2 
 
-Lista de Peliculas: Batman
+Lista de Peliculas: Batman```
 
-Coleccion de Peliculas
+**Coleccion de Peliculas**
 
-1. Agregar Pelicula
+1. **Agregar Pelicula**
    
-2. Listar Peliculas
+2. **Listar Peliculas**
    
-3. Buscar Peliculas
+3. **Buscar Peliculas**
    
-4. Salir
+4. **Salir**
 
-Elige una opcion: 3 
+**Elige una opcion:** ```3 
 
-Introduce la Pelicula a buscar: Batman 
+**Introduce la Pelicula a buscar:** Batman 
 
-Pelicula Batman encontrada - linea 1
+Pelicula Batman encontrada - linea 1 ``
