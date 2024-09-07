@@ -58,7 +58,7 @@ Coleccion de Peliculas
 4. **Salir**
 
 **Elige una opcion:** 
-```1 
+``` 1 
 
 Nombre de Pelicula: Batman 
 
