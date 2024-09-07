@@ -62,7 +62,6 @@ Coleccion de Peliculas
 Nombre de Pelicula: Batman 
 
 Se añadio la pelicula Batman
-
 ```
 
 **Coleccion de Peliculas**
